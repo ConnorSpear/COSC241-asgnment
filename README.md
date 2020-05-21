@@ -4,7 +4,7 @@ This java application transformations piles of card from 1 to n and a given row 
 up by rows or columns from the four corners. It also calculates the number of counts in order to revert back to the original
 pile state.
 
-This java application is created to replicate how a user-friendly and client orientated programe runs.
+This java application was created and designed to replicate how a user-friendly and client orientated programe runs.
 
 Created 2020
 University of Otago, Computer Science.
